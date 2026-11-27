@@ -1,0 +1,4 @@
+bizdays==2.0.0
+openpyxl==3.1.5
+pandas==3.1.1
+requests==2.34.2
